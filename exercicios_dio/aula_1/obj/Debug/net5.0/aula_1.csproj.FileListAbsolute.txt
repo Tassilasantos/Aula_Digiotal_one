@@ -1,0 +1,16 @@
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/bin/Debug/net5.0/aula_1
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/bin/Debug/net5.0/aula_1.deps.json
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/bin/Debug/net5.0/aula_1.runtimeconfig.json
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/bin/Debug/net5.0/aula_1.runtimeconfig.dev.json
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/bin/Debug/net5.0/aula_1.dll
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/bin/Debug/net5.0/ref/aula_1.dll
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/bin/Debug/net5.0/aula_1.pdb
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/aula_1.csproj.AssemblyReference.cache
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/aula_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/aula_1.AssemblyInfoInputs.cache
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/aula_1.AssemblyInfo.cs
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/aula_1.csproj.CoreCompileInputs.cache
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/aula_1.dll
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/ref/aula_1.dll
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/aula_1.pdb
+/home/tassila/Área de Trabalho/c#/exercicios_dio/aula_1/obj/Debug/net5.0/aula_1.genruntimeconfig.cache
